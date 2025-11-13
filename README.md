@@ -17,6 +17,10 @@ Responsabilité : Rédaction des contenus du site / Référencement naturel (SEO
 - Technologies utilisées
 
 HTML5
+CSS3
+JavaScript
+PHP
+MySQL
 
 - Durée du projet
 
